@@ -17,7 +17,7 @@ The results are exported to an Excel file with the title "reviewer_final_comment
 
 Install the required libraries with:
 
--Run cmd
--Turn off any proxy or VPN
--pip install selenium pandas openpyxlpip install selenium pandas openpyxl
+1. Run cmd
+2. Turn off any proxy or VPN
+3. pip install selenium pandas openpyxlpip install selenium pandas openpyxl
 

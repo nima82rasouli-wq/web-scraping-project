@@ -15,9 +15,17 @@ The results are exported to an Excel file with the title "reviewer_final_comment
 
 ## Python Dependencies
 
-Install the required libraries with:
+To install the required Python libraries, follow these steps:
 
-1. Run cmd
-2. Turn off any proxy or VPN
-3. pip install selenium pandas openpyxlpip install selenium pandas openpyxl
+Open your command prompt (CMD) or terminal.
 
+It is recommended to disable any VPN or proxy connections to avoid installation issues.
+
+Run the following command:
+
+pip install selenium pandas openpyxl
+
+The download and installation will begin immediately.
+
+If a library is already installed, you will see a message similar to:
+Requirement already satisfied: selenium in ...

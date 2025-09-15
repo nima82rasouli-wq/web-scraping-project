@@ -101,6 +101,3 @@ for i in range(len(article_links)):
 df = pd.DataFrame(results)
 df.to_excel("reviewer_final_comments.xlsx", index=False)
 driver.quit()
-
-✅ کد مقاله: 1003-MMAI | نظر نهایی داور:
-متنی با جهت rtl یافت نشد
